@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+*.pth
+*.pt
+*.ckpt
+data/
+Kidney_Stone_Dataset/
+MultiStone/
+MultiStone_Dataset/
+YOLO_Ready_Dataset/
